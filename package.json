@@ -1,0 +1,19 @@
+{
+  "name": "jquery-ui-touch-punch-improved",
+  "version": "1.0.0",
+  "description": "# jQuery UI Touch Punch ## Touch Event Support for jQuery UI",
+  "main": "jquery.ui.touch-punch-improved.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrossLead/jquery-ui-touch-punch-improved.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrossLead/jquery-ui-touch-punch-improved/issues"
+  },
+  "homepage": "https://github.com/CrossLead/jquery-ui-touch-punch-improved#readme"
+}
